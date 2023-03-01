@@ -11,7 +11,7 @@ public class Boilerplate {
 
 //public-- for all 
 //clas--- all works for java
-//class name = 2_Boilerplate
+//class name = Boilerplate
 
 
 //clss name and file name must be same
